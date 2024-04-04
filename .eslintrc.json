@@ -12,6 +12,7 @@
     "plugin:import/errors",
     "plugin:import/warnings"
   ],
+  "ignorePatterns": ["build/"],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
